@@ -5,7 +5,9 @@
 Este proyecto tiene como objetivo desarrollar un modelo de Machine Learning, que permita predecir el rating esperado de un restaurante al abrir en Madrid en función de ciertas características clave (ubicación, tipo de comida, precio, etc.).
 
 📚**Fuentes**
-- API Google Maps: Nearbysearch 'https://maps.googleapis.com/maps/api/place/nearbysearch/json' y Place https://maps.googleapis.com/maps/api/place/details/json.
+- API Google Maps: [Nearbysearch](https://developers.google.com/maps/documentation/places/web-service/search-nearby?hl=es-419) y [Places](https://developers.google.com/maps/documentation/places/web-service?hl=es-419)
+- API OpenStreet Maps: [Enlace](https://wiki.openstreetmap.org/wiki/API)
+- Panel de indicadores de distritos y barrios de Madrid. Estudio sociodemográfico: [Enlace]((https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=71359583a773a510VgnVCM2000001f4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default))
 
 
 🛠️ **Tecnologías y Herramientas**
