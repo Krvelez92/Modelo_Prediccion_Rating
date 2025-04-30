@@ -1,0 +1,394 @@
+cod_distrito,distrito,cod_barrio,barrio,año,unidad_indicador,indicador_completo,valor_indicador
+1.0,Centro,11.0,Palacio,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"165,5350704"
+1.0,Centro,11.0,Palacio,2024,Habitantes,Número Habitantes,24332
+1.0,Centro,11.0,Palacio,2023,Hogares,Total hogares,11768
+1.0,Centro,12.0,Embajadores,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"470,0590113"
+1.0,Centro,12.0,Embajadores,2024,Habitantes,Número Habitantes,48590
+1.0,Centro,12.0,Embajadores,2023,Hogares,Total hogares,22794
+1.0,Centro,13.0,Cortes,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"188,7312046"
+1.0,Centro,13.0,Cortes,2024,Habitantes,Número Habitantes,11171
+1.0,Centro,13.0,Cortes,2023,Hogares,Total hogares,5580
+1.0,Centro,14.0,Justicia,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"253,4352177"
+1.0,Centro,14.0,Justicia,2024,Habitantes,Número Habitantes,18739
+1.0,Centro,14.0,Justicia,2023,Hogares,Total hogares,9132
+1.0,Centro,15.0,Universidad,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"359,4198312"
+1.0,Centro,15.0,Universidad,2024,Habitantes,Número Habitantes,34073
+1.0,Centro,15.0,Universidad,2023,Hogares,Total hogares,17046
+1.0,Centro,16.0,Sol,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"191,0172917"
+1.0,Centro,16.0,Sol,2024,Habitantes,Número Habitantes,8506
+1.0,Centro,16.0,Sol,2023,Hogares,Total hogares,3998
+2.0,Arganzuela,21.0,Imperial,2023,Habitantes/Ha.,Población densidad (hab./Ha.),"234,2461507"
+2.0,Arganzuela,21.0,Imperial,2023,Habitantes,Número Habitantes,22668
+2.0,Arganzuela,21.0,Imperial,2023,Hogares,Total hogares,9720
+2.0,Arganzuela,22.0,Acacias,2023,Habitantes/Ha.,Población densidad (hab./Ha.),"339,8080865"
+2.0,Arganzuela,22.0,Acacias,2023,Habitantes,Número Habitantes,36475
+2.0,Arganzuela,22.0,Acacias,2023,Hogares,Total hogares,15624
+2.0,Arganzuela,23.0,Chopera,2023,Habitantes/Ha.,Población densidad (hab./Ha.),"356,7453329"
+2.0,Arganzuela,23.0,Chopera,2023,Habitantes,Número Habitantes,20256
+2.0,Arganzuela,23.0,Chopera,2023,Hogares,Total hogares,8724
+2.0,Arganzuela,24.0,Legazpi,2023,Habitantes/Ha.,Población densidad (hab./Ha.),"140,38883"
+2.0,Arganzuela,24.0,Legazpi,2023,Habitantes,Número Habitantes,19858
+2.0,Arganzuela,24.0,Legazpi,2023,Hogares,Total hogares,7777
+2.0,Arganzuela,25.0,Delicias,2023,Habitantes/Ha.,Población densidad (hab./Ha.),"279,3685408"
+2.0,Arganzuela,25.0,Delicias,2023,Habitantes,Número Habitantes,29465
+2.0,Arganzuela,25.0,Delicias,2023,Hogares,Total hogares,12142
+2.0,Arganzuela,26.0,Palos de la Frontera,2023,Habitantes/Ha.,Población densidad (hab./Ha.),"397,7483035"
+2.0,Arganzuela,26.0,Palos de la Frontera,2023,Habitantes,Número Habitantes,25790
+2.0,Arganzuela,26.0,Palos de la Frontera,2023,Hogares,Total hogares,11762
+2.0,Arganzuela,27.0,Atocha,2023,Habitantes/Ha.,Población densidad (hab./Ha.),"27,82384124"
+2.0,Arganzuela,27.0,Atocha,2023,Habitantes,Número Habitantes,2047
+2.0,Arganzuela,27.0,Atocha,2023,Hogares,Total hogares,743
+3.0,Retiro,31.0,Pacífico,2023,Habitantes/Ha.,Población densidad (hab./Ha.),"444,982197"
+3.0,Retiro,31.0,Pacífico,2023,Habitantes,Número Habitantes,33743
+3.0,Retiro,31.0,Pacífico,2023,Hogares,Total hogares,14847
+3.0,Retiro,32.0,Adelfas,2023,Habitantes/Ha.,Población densidad (hab./Ha.),"296,8945069"
+3.0,Retiro,32.0,Adelfas,2023,Habitantes,Número Habitantes,19025
+3.0,Retiro,32.0,Adelfas,2023,Hogares,Total hogares,7959
+3.0,Retiro,33.0,Estrella,2023,Habitantes/Ha.,Población densidad (hab./Ha.),"222,0770356"
+3.0,Retiro,33.0,Estrella,2023,Habitantes,Número Habitantes,22774
+3.0,Retiro,33.0,Estrella,2023,Hogares,Total hogares,8720
+3.0,Retiro,34.0,Ibiza,2023,Habitantes/Ha.,Población densidad (hab./Ha.),"447,3577236"
+3.0,Retiro,34.0,Ibiza,2023,Habitantes,Número Habitantes,22010
+3.0,Retiro,34.0,Ibiza,2023,Hogares,Total hogares,9378
+3.0,Retiro,35.0,Los Jerónimos,2023,Habitantes/Ha.,Población densidad (hab./Ha.),"36,37221989"
+3.0,Retiro,35.0,Los Jerónimos,2023,Habitantes,Número Habitantes,6934
+3.0,Retiro,35.0,Los Jerónimos,2023,Hogares,Total hogares,2744
+3.0,Retiro,36.0,Niño Jesús,2023,Habitantes/Ha.,Población densidad (hab./Ha.),"237,3853568"
+3.0,Retiro,36.0,Niño Jesús,2023,Habitantes,Número Habitantes,15271
+3.0,Retiro,36.0,Niño Jesús,2023,Hogares,Total hogares,5695
+4.0,Salamanca,41.0,Recoletos,2023,Habitantes/Ha.,Población densidad (hab./Ha.),"181,4797847"
+4.0,Salamanca,41.0,Recoletos,2023,Habitantes,Número Habitantes,15845
+4.0,Salamanca,41.0,Recoletos,2023,Hogares,Total hogares,6716
+4.0,Salamanca,42.0,Goya,2023,Habitantes/Ha.,Población densidad (hab./Ha.),"394,4047774"
+4.0,Salamanca,42.0,Goya,2023,Habitantes,Número Habitantes,30381
+4.0,Salamanca,42.0,Goya,2023,Hogares,Total hogares,13279
+4.0,Salamanca,43.0,Fuente del Berro,2023,Habitantes/Ha.,Población densidad (hab./Ha.),"251,5716631"
+4.0,Salamanca,43.0,Fuente del Berro,2023,Habitantes,Número Habitantes,21449
+4.0,Salamanca,43.0,Fuente del Berro,2023,Hogares,Total hogares,9345
+4.0,Salamanca,44.0,Guindalera,2023,Habitantes/Ha.,Población densidad (hab./Ha.),"267,6877964"
+4.0,Salamanca,44.0,Guindalera,2023,Habitantes,Número Habitantes,42905
+4.0,Salamanca,44.0,Guindalera,2023,Hogares,Total hogares,18143
+4.0,Salamanca,45.0,Lista,2023,Habitantes/Ha.,Población densidad (hab./Ha.),"413,4179162"
+4.0,Salamanca,45.0,Lista,2023,Habitantes,Número Habitantes,21506
+4.0,Salamanca,45.0,Lista,2023,Hogares,Total hogares,9340
+4.0,Salamanca,46.0,Castellana,2023,Habitantes/Ha.,Población densidad (hab./Ha.),"228,7561417"
+4.0,Salamanca,46.0,Castellana,2023,Habitantes,Número Habitantes,17692
+4.0,Salamanca,46.0,Castellana,2023,Hogares,Total hogares,7054
+5.0,Chamartín,51.0,El Viso,2023,Habitantes/Ha.,Población densidad (hab./Ha.),"102,6503627"
+5.0,Chamartín,51.0,El Viso,2023,Habitantes,Número Habitantes,17545
+5.0,Chamartín,51.0,El Viso,2023,Hogares,Total hogares,6195
+5.0,Chamartín,52.0,Prosperidad,2023,Habitantes/Ha.,Población densidad (hab./Ha.),"355,3600615"
+5.0,Chamartín,52.0,Prosperidad,2023,Habitantes,Número Habitantes,36961
+5.0,Chamartín,52.0,Prosperidad,2023,Hogares,Total hogares,16211
+5.0,Chamartín,53.0,Ciudad Jardín,2023,Habitantes/Ha.,Población densidad (hab./Ha.),"248,3011938"
+5.0,Chamartín,53.0,Ciudad Jardín,2023,Habitantes,Número Habitantes,18928
+5.0,Chamartín,53.0,Ciudad Jardín,2023,Hogares,Total hogares,8148
+5.0,Chamartín,54.0,Hispanoamérica,2023,Habitantes/Ha.,Población densidad (hab./Ha.),"186,9430657"
+5.0,Chamartín,54.0,Hispanoamérica,2023,Habitantes,Número Habitantes,32014
+5.0,Chamartín,54.0,Hispanoamérica,2023,Hogares,Total hogares,12547
+5.0,Chamartín,55.0,Nueva España,2023,Habitantes/Ha.,Población densidad (hab./Ha.),"139,8972124"
+5.0,Chamartín,55.0,Nueva España,2023,Habitantes,Número Habitantes,25043
+5.0,Chamartín,55.0,Nueva España,2023,Hogares,Total hogares,9275
+5.0,Chamartín,56.0,Castilla,2023,Habitantes/Ha.,Población densidad (hab./Ha.),"81,5250081"
+5.0,Chamartín,56.0,Castilla,2023,Habitantes,Número Habitantes,17620
+5.0,Chamartín,56.0,Castilla,2023,Hogares,Total hogares,6757
+6.0,Tetuán,61.0,Bellas Vistas,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"426,8875839"
+6.0,Tetuán,61.0,Bellas Vistas,2024,Habitantes,Número Habitantes,30531
+6.0,Tetuán,61.0,Bellas Vistas,2023,Hogares,Total hogares,12185
+6.0,Tetuán,62.0,Cuatro Caminos,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"301,4599156"
+6.0,Tetuán,62.0,Cuatro Caminos,2024,Habitantes,Número Habitantes,35723
+6.0,Tetuán,62.0,Cuatro Caminos,2023,Hogares,Total hogares,15324
+6.0,Tetuán,63.0,Castillejos,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"301,6319001"
+6.0,Tetuán,63.0,Castillejos,2024,Habitantes,Número Habitantes,21256
+6.0,Tetuán,63.0,Castillejos,2023,Hogares,Total hogares,9525
+6.0,Tetuán,64.0,Almenara,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"241,0446268"
+6.0,Tetuán,64.0,Almenara,2024,Habitantes,Número Habitantes,24090
+6.0,Tetuán,64.0,Almenara,2023,Hogares,Total hogares,9560
+6.0,Tetuán,65.0,Valdeacederas,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"238,9375967"
+6.0,Tetuán,65.0,Valdeacederas,2024,Habitantes,Número Habitantes,27798
+6.0,Tetuán,65.0,Valdeacederas,2023,Hogares,Total hogares,11061
+6.0,Tetuán,66.0,Berruguete,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"441,6570581"
+6.0,Tetuán,66.0,Berruguete,2024,Habitantes,Número Habitantes,26813
+6.0,Tetuán,66.0,Berruguete,2023,Hogares,Total hogares,10656
+7.0,Chamberí,71.0,Gaztambide,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"464,6199408"
+7.0,Chamberí,71.0,Gaztambide,2024,Habitantes,Número Habitantes,23533
+7.0,Chamberí,71.0,Gaztambide,2023,Hogares,Total hogares,10610
+7.0,Chamberí,72.0,Arapiles,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"431,1829817"
+7.0,Chamberí,72.0,Arapiles,2024,Habitantes,Número Habitantes,24931
+7.0,Chamberí,72.0,Arapiles,2023,Hogares,Total hogares,11347
+7.0,Chamberí,73.0,Trafalgar,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"413,9238438"
+7.0,Chamberí,73.0,Trafalgar,2024,Habitantes,Número Habitantes,25328
+7.0,Chamberí,73.0,Trafalgar,2023,Hogares,Total hogares,11905
+7.0,Chamberí,74.0,Almagro,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"213,157053"
+7.0,Chamberí,74.0,Almagro,2024,Habitantes,Número Habitantes,19992
+7.0,Chamberí,74.0,Almagro,2023,Hogares,Total hogares,8109
+7.0,Chamberí,75.0,Ríos Rosas,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"286,6721345"
+7.0,Chamberí,75.0,Ríos Rosas,2024,Habitantes,Número Habitantes,27962
+7.0,Chamberí,75.0,Ríos Rosas,2023,Hogares,Total hogares,12253
+7.0,Chamberí,76.0,Vallehermoso,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"189,2817059"
+7.0,Chamberí,76.0,Vallehermoso,2024,Habitantes,Número Habitantes,20238
+7.0,Chamberí,76.0,Vallehermoso,2023,Hogares,Total hogares,8443
+8.0,Fuencarral-El Pardo,81.0,El Pardo,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"0,184451289"
+8.0,Fuencarral-El Pardo,81.0,El Pardo,2024,Habitantes,Número Habitantes,3460
+8.0,Fuencarral-El Pardo,81.0,El Pardo,2023,Hogares,Total hogares,1316
+8.0,Fuencarral-El Pardo,82.0,Fuentelarreina,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"25,30015912"
+8.0,Fuencarral-El Pardo,82.0,Fuentelarreina,2024,Habitantes,Número Habitantes,3498
+8.0,Fuencarral-El Pardo,82.0,Fuentelarreina,2023,Hogares,Total hogares,1158
+8.0,Fuencarral-El Pardo,83.0,Peñagrande,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"155,3146538"
+8.0,Fuencarral-El Pardo,83.0,Peñagrande,2024,Habitantes,Número Habitantes,44844
+8.0,Fuencarral-El Pardo,83.0,Peñagrande,2023,Hogares,Total hogares,17370
+8.0,Fuencarral-El Pardo,84.0,Pilar,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"341,4245892"
+8.0,Fuencarral-El Pardo,84.0,Pilar,2024,Habitantes,Número Habitantes,46543
+8.0,Fuencarral-El Pardo,84.0,Pilar,2023,Hogares,Total hogares,19653
+8.0,Fuencarral-El Pardo,85.0,La Paz,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"150,0974568"
+8.0,Fuencarral-El Pardo,85.0,La Paz,2024,Habitantes,Número Habitantes,32343
+8.0,Fuencarral-El Pardo,85.0,La Paz,2023,Hogares,Total hogares,12517
+8.0,Fuencarral-El Pardo,86.0,Valverde,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"74,45552933"
+8.0,Fuencarral-El Pardo,86.0,Valverde,2024,Habitantes,Número Habitantes,66870
+8.0,Fuencarral-El Pardo,86.0,Valverde,2023,Hogares,Total hogares,23483
+8.0,Fuencarral-El Pardo,87.0,Mirasierra,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"52,54547535"
+8.0,Fuencarral-El Pardo,87.0,Mirasierra,2024,Habitantes,Número Habitantes,36744
+8.0,Fuencarral-El Pardo,87.0,Mirasierra,2023,Hogares,Total hogares,11425
+8.0,Fuencarral-El Pardo,88.0,El Goloso,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"7,396642899"
+8.0,Fuencarral-El Pardo,88.0,El Goloso,2024,Habitantes,Número Habitantes,19596
+8.0,Fuencarral-El Pardo,88.0,El Goloso,2023,Hogares,Total hogares,5965
+9.0,Moncloa-Aravaca,91.0,Casa de Campo,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"7,414407294"
+9.0,Moncloa-Aravaca,91.0,Casa de Campo,2024,Habitantes,Número Habitantes,12946
+9.0,Moncloa-Aravaca,91.0,Casa de Campo,2023,Hogares,Total hogares,5615
+9.0,Moncloa-Aravaca,92.0,Argüelles,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"329,8613861"
+9.0,Moncloa-Aravaca,92.0,Argüelles,2024,Habitantes,Número Habitantes,24987
+9.0,Moncloa-Aravaca,92.0,Argüelles,2023,Hogares,Total hogares,10711
+9.0,Moncloa-Aravaca,93.0,Ciudad Universitaria,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"11,8420591"
+9.0,Moncloa-Aravaca,93.0,Ciudad Universitaria,2024,Habitantes,Número Habitantes,16876
+9.0,Moncloa-Aravaca,93.0,Ciudad Universitaria,2023,Hogares,Total hogares,6277
+9.0,Moncloa-Aravaca,94.0,Valdezarza,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"226,2182469"
+9.0,Moncloa-Aravaca,94.0,Valdezarza,2024,Habitantes,Número Habitantes,31614
+9.0,Moncloa-Aravaca,94.0,Valdezarza,2023,Hogares,Total hogares,12715
+9.0,Moncloa-Aravaca,95.0,Valdemarín,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"22,56169569"
+9.0,Moncloa-Aravaca,95.0,Valdemarín,2024,Habitantes,Número Habitantes,7451
+9.0,Moncloa-Aravaca,95.0,Valdemarín,2023,Hogares,Total hogares,2078
+9.0,Moncloa-Aravaca,96.0,El Plantío,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"8,945071141"
+9.0,Moncloa-Aravaca,96.0,El Plantío,2024,Habitantes,Número Habitantes,3156
+9.0,Moncloa-Aravaca,96.0,El Plantío,2023,Hogares,Total hogares,953
+9.0,Moncloa-Aravaca,97.0,Aravaca,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"48,32533425"
+9.0,Moncloa-Aravaca,97.0,Aravaca,2024,Habitantes,Número Habitantes,28193
+9.0,Moncloa-Aravaca,97.0,Aravaca,2023,Hogares,Total hogares,8930
+10.0,Latina,101.0,Los Cármenes,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"142,5928793"
+10.0,Latina,101.0,Los Cármenes,2024,Habitantes,Número Habitantes,18423
+10.0,Latina,101.0,Los Cármenes,2023,Hogares,Total hogares,6760
+10.0,Latina,102.0,Puerta del Ángel,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"330,9314331"
+10.0,Latina,102.0,Puerta del Ángel,2024,Habitantes,Número Habitantes,45513
+10.0,Latina,102.0,Puerta del Ángel,2023,Hogares,Total hogares,18239
+10.0,Latina,103.0,Lucero,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"226,7540203"
+10.0,Latina,103.0,Lucero,2024,Habitantes,Número Habitantes,38072
+10.0,Latina,103.0,Lucero,2023,Hogares,Total hogares,14396
+10.0,Latina,104.0,Aluche,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"242,0275107"
+10.0,Latina,104.0,Aluche,2024,Habitantes,Número Habitantes,68973
+10.0,Latina,104.0,Aluche,2023,Hogares,Total hogares,27043
+10.0,Latina,105.0,Campamento,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"22,47426943"
+10.0,Latina,105.0,Campamento,2024,Habitantes,Número Habitantes,20657
+10.0,Latina,105.0,Campamento,2023,Hogares,Total hogares,7505
+10.0,Latina,106.0,Cuatro Vientos,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"11,81746193"
+10.0,Latina,106.0,Cuatro Vientos,2024,Habitantes,Número Habitantes,6417
+10.0,Latina,106.0,Cuatro Vientos,2023,Hogares,Total hogares,2342
+10.0,Latina,107.0,Águilas,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"145,0049867"
+10.0,Latina,107.0,Águilas,2024,Habitantes,Número Habitantes,52341
+10.0,Latina,107.0,Águilas,2023,Hogares,Total hogares,20965
+11.0,Carabanchel,111.0,Comillas,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"352,289446"
+11.0,Carabanchel,111.0,Comillas,2024,Habitantes,Número Habitantes,23466
+11.0,Carabanchel,111.0,Comillas,2023,Hogares,Total hogares,9679
+11.0,Carabanchel,112.0,Opañel,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"320,7170595"
+11.0,Carabanchel,112.0,Opañel,2024,Habitantes,Número Habitantes,35513
+11.0,Carabanchel,112.0,Opañel,2023,Hogares,Total hogares,13463
+11.0,Carabanchel,113.0,San Isidro,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"222,10288"
+11.0,Carabanchel,113.0,San Isidro,2024,Habitantes,Número Habitantes,42184
+11.0,Carabanchel,113.0,San Isidro,2023,Hogares,Total hogares,15593
+11.0,Carabanchel,114.0,Vista Alegre,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"315,5864586"
+11.0,Carabanchel,114.0,Vista Alegre,2024,Habitantes,Número Habitantes,50153
+11.0,Carabanchel,114.0,Vista Alegre,2023,Hogares,Total hogares,17773
+11.0,Carabanchel,115.0,Puerta Bonita,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"241,0854159"
+11.0,Carabanchel,115.0,Puerta Bonita,2024,Habitantes,Número Habitantes,38781
+11.0,Carabanchel,115.0,Puerta Bonita,2023,Hogares,Total hogares,12904
+11.0,Carabanchel,116.0,Buenavista,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"90,92852562"
+11.0,Carabanchel,116.0,Buenavista,2024,Habitantes,Número Habitantes,51040
+11.0,Carabanchel,116.0,Buenavista,2023,Hogares,Total hogares,17942
+11.0,Carabanchel,117.0,Abrantes,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"212,6358175"
+11.0,Carabanchel,117.0,Abrantes,2024,Habitantes,Número Habitantes,33269
+11.0,Carabanchel,117.0,Abrantes,2023,Hogares,Total hogares,11237
+12.0,Usera,121.0,Orcasitas,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"173,1200236"
+12.0,Usera,121.0,Orcasitas,2024,Habitantes,Número Habitantes,23482
+12.0,Usera,121.0,Orcasitas,2023,Hogares,Total hogares,8512
+12.0,Usera,122.0,Orcasur,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"107,0496648"
+12.0,Usera,122.0,Orcasur,2024,Habitantes,Número Habitantes,14851
+12.0,Usera,122.0,Orcasur,2023,Hogares,Total hogares,4835
+12.0,Usera,123.0,San Fermín,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"166,1244408"
+12.0,Usera,123.0,San Fermín,2024,Habitantes,Número Habitantes,24510
+12.0,Usera,123.0,San Fermín,2023,Hogares,Total hogares,8343
+12.0,Usera,124.0,Almendrales,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"306,7170876"
+12.0,Usera,124.0,Almendrales,2024,Habitantes,Número Habitantes,23927
+12.0,Usera,124.0,Almendrales,2023,Hogares,Total hogares,8129
+12.0,Usera,125.0,Moscardó,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"306,7011444"
+12.0,Usera,125.0,Moscardó,2024,Habitantes,Número Habitantes,27873
+12.0,Usera,125.0,Moscardó,2023,Hogares,Total hogares,9937
+12.0,Usera,126.0,Zofío,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"197,6485788"
+12.0,Usera,126.0,Zofío,2024,Habitantes,Número Habitantes,15298
+12.0,Usera,126.0,Zofío,2023,Hogares,Total hogares,5107
+12.0,Usera,127.0,Pradolongo,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"174,9749019"
+12.0,Usera,127.0,Pradolongo,2024,Habitantes,Número Habitantes,19172
+12.0,Usera,127.0,Pradolongo,2023,Hogares,Total hogares,6095
+13.0,Puente de Vallecas,131.0,Entrevías,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"61,70732933"
+13.0,Puente de Vallecas,131.0,Entrevías,2024,Habitantes,Número Habitantes,36851
+13.0,Puente de Vallecas,131.0,Entrevías,2023,Hogares,Total hogares,12790
+13.0,Puente de Vallecas,132.0,San Diego,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"461,1552482"
+13.0,Puente de Vallecas,132.0,San Diego,2024,Habitantes,Número Habitantes,49339
+13.0,Puente de Vallecas,132.0,San Diego,2023,Hogares,Total hogares,16743
+13.0,Puente de Vallecas,133.0,Palomeras Bajas,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"242,2124253"
+13.0,Puente de Vallecas,133.0,Palomeras Bajas,2024,Habitantes,Número Habitantes,41755
+13.0,Puente de Vallecas,133.0,Palomeras Bajas,2023,Hogares,Total hogares,15269
+13.0,Puente de Vallecas,134.0,Palomeras Sureste,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"142,8167021"
+13.0,Puente de Vallecas,134.0,Palomeras Sureste,2024,Habitantes,Número Habitantes,44396
+13.0,Puente de Vallecas,134.0,Palomeras Sureste,2023,Hogares,Total hogares,16410
+13.0,Puente de Vallecas,135.0,Portazgo,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"238,8661367"
+13.0,Puente de Vallecas,135.0,Portazgo,2024,Habitantes,Número Habitantes,29746
+13.0,Puente de Vallecas,135.0,Portazgo,2023,Hogares,Total hogares,10941
+13.0,Puente de Vallecas,136.0,Numancia,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"275,59894"
+13.0,Puente de Vallecas,136.0,Numancia,2024,Habitantes,Número Habitantes,50961
+13.0,Puente de Vallecas,136.0,Numancia,2023,Hogares,Total hogares,18715
+14.0,Moratalaz,141.0,Pavones,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"91,19540458"
+14.0,Moratalaz,141.0,Pavones,2024,Habitantes,Número Habitantes,9208
+14.0,Moratalaz,141.0,Pavones,2023,Hogares,Total hogares,3298
+14.0,Moratalaz,142.0,Horcajo,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"86,08392546"
+14.0,Moratalaz,142.0,Horcajo,2024,Habitantes,Número Habitantes,6421
+14.0,Moratalaz,142.0,Horcajo,2023,Hogares,Total hogares,2200
+14.0,Moratalaz,143.0,Marroquina,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"147,3548964"
+14.0,Moratalaz,143.0,Marroquina,2024,Habitantes,Número Habitantes,26378
+14.0,Moratalaz,143.0,Marroquina,2023,Hogares,Total hogares,10837
+14.0,Moratalaz,144.0,Media Legua,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"178,048048"
+14.0,Moratalaz,144.0,Media Legua,2024,Habitantes,Número Habitantes,17787
+14.0,Moratalaz,144.0,Media Legua,2023,Hogares,Total hogares,7142
+14.0,Moratalaz,145.0,Fontarrón,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"186,605847"
+14.0,Moratalaz,145.0,Fontarrón,2024,Habitantes,Número Habitantes,18000
+14.0,Moratalaz,145.0,Fontarrón,2023,Hogares,Total hogares,6957
+14.0,Moratalaz,146.0,Vinateros,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"291,7340067"
+14.0,Moratalaz,146.0,Vinateros,2024,Habitantes,Número Habitantes,17329
+14.0,Moratalaz,146.0,Vinateros,2023,Hogares,Total hogares,7244
+15.0,Ciudad Lineal,151.0,Ventas,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"163,2989368"
+15.0,Ciudad Lineal,151.0,Ventas,2024,Habitantes,Número Habitantes,52223
+15.0,Ciudad Lineal,151.0,Ventas,2023,Hogares,Total hogares,20841
+15.0,Ciudad Lineal,152.0,Pueblo Nuevo,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"284,0375992"
+15.0,Ciudad Lineal,152.0,Pueblo Nuevo,2024,Habitantes,Número Habitantes,65874
+15.0,Ciudad Lineal,152.0,Pueblo Nuevo,2023,Hogares,Total hogares,24463
+15.0,Ciudad Lineal,153.0,Quintana,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"370,1009542"
+15.0,Ciudad Lineal,153.0,Quintana,2024,Habitantes,Número Habitantes,26762
+15.0,Ciudad Lineal,153.0,Quintana,2023,Hogares,Total hogares,10680
+15.0,Ciudad Lineal,154.0,Concepción,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"251,2247432"
+15.0,Ciudad Lineal,154.0,Concepción,2024,Habitantes,Número Habitantes,22256
+15.0,Ciudad Lineal,154.0,Concepción,2023,Hogares,Total hogares,9241
+15.0,Ciudad Lineal,155.0,San Pascual,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"180,6687565"
+15.0,Ciudad Lineal,155.0,San Pascual,2024,Habitantes,Número Habitantes,19019
+15.0,Ciudad Lineal,155.0,San Pascual,2023,Hogares,Total hogares,7838
+15.0,Ciudad Lineal,156.0,San Juan Bautista,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"129,7981797"
+15.0,Ciudad Lineal,156.0,San Juan Bautista,2024,Habitantes,Número Habitantes,13120
+15.0,Ciudad Lineal,156.0,San Juan Bautista,2023,Hogares,Total hogares,4967
+15.0,Ciudad Lineal,157.0,Colina,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"121,6723245"
+15.0,Ciudad Lineal,157.0,Colina,2024,Habitantes,Número Habitantes,6810
+15.0,Ciudad Lineal,157.0,Colina,2023,Hogares,Total hogares,2726
+15.0,Ciudad Lineal,158.0,Atalaya,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"67,17557252"
+15.0,Ciudad Lineal,158.0,Atalaya,2024,Habitantes,Número Habitantes,1672
+15.0,Ciudad Lineal,158.0,Atalaya,2023,Hogares,Total hogares,604
+15.0,Ciudad Lineal,159.0,Costillares,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"156,2429933"
+15.0,Ciudad Lineal,159.0,Costillares,2024,Habitantes,Número Habitantes,22299
+15.0,Ciudad Lineal,159.0,Costillares,2023,Hogares,Total hogares,8107
+16.0,Hortaleza,161.0,Palomas,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"65,66242515"
+16.0,Hortaleza,161.0,Palomas,2024,Habitantes,Número Habitantes,7018
+16.0,Hortaleza,161.0,Palomas,2023,Hogares,Total hogares,2300
+16.0,Hortaleza,162.0,Piovera,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"49,22601605"
+16.0,Hortaleza,162.0,Piovera,2024,Habitantes,Número Habitantes,15455
+16.0,Hortaleza,162.0,Piovera,2023,Hogares,Total hogares,5025
+16.0,Hortaleza,163.0,Canillas,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"160,3171457"
+16.0,Hortaleza,163.0,Canillas,2024,Habitantes,Número Habitantes,40440
+16.0,Hortaleza,163.0,Canillas,2023,Hogares,Total hogares,16218
+16.0,Hortaleza,164.0,Pinar del Rey,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"200,0637947"
+16.0,Hortaleza,164.0,Pinar del Rey,2024,Habitantes,Número Habitantes,53313
+16.0,Hortaleza,164.0,Pinar del Rey,2023,Hogares,Total hogares,21565
+16.0,Hortaleza,165.0,Apóstol Santiago,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"131,4579703"
+16.0,Hortaleza,165.0,Apóstol Santiago,2024,Habitantes,Número Habitantes,15842
+16.0,Hortaleza,165.0,Apóstol Santiago,2023,Hogares,Total hogares,5881
+16.0,Hortaleza,166.0,Valdefuentes,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"42,94432404"
+16.0,Hortaleza,166.0,Valdefuentes,2024,Habitantes,Número Habitantes,73114
+16.0,Hortaleza,166.0,Valdefuentes,2023,Hogares,Total hogares,23751
+17.0,Villaverde,171.0,"Villaverde Alto, Casco Histórico de Villaverde",2024,Habitantes/Ha.,Población densidad (hab./Ha.),"54,32048068"
+17.0,Villaverde,171.0,"Villaverde Alto, Casco Histórico de Villaverde",2024,Habitantes,Número Habitantes,50266
+17.0,Villaverde,171.0,"Villaverde Alto, Casco Histórico de Villaverde",2023,Hogares,Total hogares,16874
+17.0,Villaverde,172.0,San Cristóbal,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"174,3187067"
+17.0,Villaverde,172.0,San Cristóbal,2024,Habitantes,Número Habitantes,18870
+17.0,Villaverde,172.0,San Cristóbal,2023,Hogares,Total hogares,5220
+17.0,Villaverde,173.0,Butarque,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"35,09528664"
+17.0,Villaverde,173.0,Butarque,2024,Habitantes,Número Habitantes,22375
+17.0,Villaverde,173.0,Butarque,2023,Hogares,Total hogares,7464
+17.0,Villaverde,174.0,Los Rosales,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"257,3375738"
+17.0,Villaverde,174.0,Los Rosales,2024,Habitantes,Número Habitantes,39648
+17.0,Villaverde,174.0,Los Rosales,2023,Hogares,Total hogares,13365
+17.0,Villaverde,175.0,Ángeles,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"190,1152276"
+17.0,Villaverde,175.0,Ángeles,2024,Habitantes,Número Habitantes,36793
+17.0,Villaverde,175.0,Ángeles,2023,Hogares,Total hogares,13423
+18.0,Villa de Vallecas,181.0,Casco Histórico de Vallecas,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"9,753309839"
+18.0,Villa de Vallecas,181.0,Casco Histórico de Vallecas,2024,Habitantes,Número Habitantes,41984
+18.0,Villa de Vallecas,181.0,Casco Histórico de Vallecas,2023,Hogares,Total hogares,15035
+18.0,Villa de Vallecas,182.0,Santa Eugenia,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"116,1811364"
+18.0,Villa de Vallecas,182.0,Santa Eugenia,2024,Habitantes,Número Habitantes,24168
+18.0,Villa de Vallecas,182.0,Santa Eugenia,2023,Hogares,Total hogares,9075
+18.0,Villa de Vallecas,183.0,Ensanche de Vallecas,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"88,6045008"
+18.0,Villa de Vallecas,183.0,Ensanche de Vallecas,2024,Habitantes,Número Habitantes,56185
+18.0,Villa de Vallecas,183.0,Ensanche de Vallecas,2023,Hogares,Total hogares,20925
+19.0,Vicálvaro,191.0,Casco Histórico de Vicálvaro,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"17,22232044"
+19.0,Vicálvaro,191.0,Casco Histórico de Vicálvaro,2024,Habitantes,Número Habitantes,37018
+19.0,Vicálvaro,191.0,Casco Histórico de Vicálvaro,2023,Hogares,Total hogares,13509
+19.0,Vicálvaro,192.0,Valdebernardo,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"69,24582208"
+19.0,Vicálvaro,192.0,Valdebernardo,2024,Habitantes,Número Habitantes,17693
+19.0,Vicálvaro,192.0,Valdebernardo,2023,Hogares,Total hogares,6137
+19.0,Vicálvaro,193.0,Valderrivas,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"277,7985075"
+19.0,Vicálvaro,193.0,Valderrivas,2024,Habitantes,Número Habitantes,17868
+19.0,Vicálvaro,193.0,Valderrivas,2023,Hogares,Total hogares,6328
+19.0,Vicálvaro,194.0,El Cañaveral,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"16,25923229"
+19.0,Vicálvaro,194.0,El Cañaveral,2024,Habitantes,Número Habitantes,17193
+19.0,Vicálvaro,194.0,El Cañaveral,2023,Hogares,Total hogares,5169
+20.0,San Blas-Canillejas,201.0,Simancas,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"132,4869305"
+20.0,San Blas-Canillejas,201.0,Simancas,2024,Habitantes,Número Habitantes,30158
+20.0,San Blas-Canillejas,201.0,Simancas,2023,Hogares,Total hogares,11275
+20.0,San Blas-Canillejas,202.0,Hellín,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"180,9843807"
+20.0,San Blas-Canillejas,202.0,Hellín,2024,Habitantes,Número Habitantes,9965
+20.0,San Blas-Canillejas,202.0,Hellín,2023,Hogares,Total hogares,3696
+20.0,San Blas-Canillejas,203.0,Amposta,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"263,3441383"
+20.0,San Blas-Canillejas,203.0,Amposta,2024,Habitantes,Número Habitantes,9749
+20.0,San Blas-Canillejas,203.0,Amposta,2023,Hogares,Total hogares,3471
+20.0,San Blas-Canillejas,204.0,Arcos,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"201,3484523"
+20.0,San Blas-Canillejas,204.0,Arcos,2024,Habitantes,Número Habitantes,26280
+20.0,San Blas-Canillejas,204.0,Arcos,2023,Hogares,Total hogares,9317
+20.0,San Blas-Canillejas,205.0,Rosas,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"33,17162373"
+20.0,San Blas-Canillejas,205.0,Rosas,2024,Habitantes,Número Habitantes,30838
+20.0,San Blas-Canillejas,205.0,Rosas,2023,Hogares,Total hogares,11122
+20.0,San Blas-Canillejas,206.0,Rejas,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"36,27808681"
+20.0,San Blas-Canillejas,206.0,Rejas,2024,Habitantes,Número Habitantes,18196
+20.0,San Blas-Canillejas,206.0,Rejas,2023,Hogares,Total hogares,6963
+20.0,San Blas-Canillejas,207.0,Canillejas,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"187,4131564"
+20.0,San Blas-Canillejas,207.0,Canillejas,2024,Habitantes,Número Habitantes,29943
+20.0,San Blas-Canillejas,207.0,Canillejas,2023,Hogares,Total hogares,11156
+20.0,San Blas-Canillejas,208.0,El Salvador,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"60,92229137"
+20.0,San Blas-Canillejas,208.0,El Salvador,2024,Habitantes,Número Habitantes,11454
+20.0,San Blas-Canillejas,208.0,El Salvador,2023,Hogares,Total hogares,4374
+21.0,Barajas,211.0,Alameda de Osuna,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"97,84374538"
+21.0,Barajas,211.0,Alameda de Osuna,2024,Habitantes,Número Habitantes,19875
+21.0,Barajas,211.0,Alameda de Osuna,2023,Hogares,Total hogares,7458
+21.0,Barajas,212.0,Aeropuerto,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"0,657005417"
+21.0,Barajas,212.0,Aeropuerto,2024,Habitantes,Número Habitantes,1949
+21.0,Barajas,212.0,Aeropuerto,2023,Hogares,Total hogares,702
+21.0,Barajas,213.0,Casco Histórico de Barajas,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"138,7877685"
+21.0,Barajas,213.0,Casco Histórico de Barajas,2024,Habitantes,Número Habitantes,7625
+21.0,Barajas,213.0,Casco Histórico de Barajas,2023,Hogares,Total hogares,3187
+21.0,Barajas,214.0,Timón,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"25,84194732"
+21.0,Barajas,214.0,Timón,2024,Habitantes,Número Habitantes,12400
+21.0,Barajas,214.0,Timón,2023,Hogares,Total hogares,4520
+21.0,Barajas,215.0,Corralejos,2024,Habitantes/Ha.,Población densidad (hab./Ha.),"16,61423221"
+21.0,Barajas,215.0,Corralejos,2024,Habitantes,Número Habitantes,7763
+21.0,Barajas,215.0,Corralejos,2023,Hogares,Total hogares,2651
