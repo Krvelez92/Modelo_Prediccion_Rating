@@ -8,7 +8,7 @@ Este proyecto tiene como objetivo desarrollar un modelo de Machine Learning, que
 - API Google Maps: [Nearbysearch](https://developers.google.com/maps/documentation/places/web-service/search-nearby?hl=es-419) y [Places](https://developers.google.com/maps/documentation/places/web-service?hl=es-419)
 - API OpenStreet Maps: [Enlace](https://wiki.openstreetmap.org/wiki/API)
 - Panel de indicadores de distritos y barrios de Madrid. Estudio sociodemográfico: [Enlace](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=71359583a773a510VgnVCM2000001f4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)
-
+- Barrios municipales de Madrid: [Enlace](https://geoportal.madrid.es/IDEAM_WBGEOPORTAL/dataset.iam?id=422fa235-762b-11e9-861d-ecb1d753f6e8)
 
 🛠️ **Tecnologías y Herramientas**
   - Python (Pandas, Scikit-learn, etc.)
