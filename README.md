@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="doc/imagenes/Imagen_portada.png" alt="portada" />
+  <img src="doc/imagenes/Imagen_portada.png" alt="portada" width="50%"/>
 </p>
 
 🧠 **Proyecto Final de Machine Learning: Predicción de Rating de Restaurantes en Madrid**
