@@ -11,7 +11,7 @@ from PIL import Image
 import util_streamlit as u
 import pandas as pd
 import pickle
-
+import random
 
 
 # ----------------- Configuración Pagina Tab ---------------------
@@ -35,8 +35,8 @@ st.sidebar.markdown("""Para calcular el exito de tu futuro restaurante rellena e
 precio_opciones = [
     "1 - $ (Económico)", 
     "2 - $$ (Moderado)", 
-    "3 - $$$ (Caro)", 
-    "4 - $$$$ (Muy caro)"
+    "3 - $$$ (Exclusivo)", 
+    "4 - $$$$ (Premium)"
 ]
 
 precio_seleccionado = st.sidebar.radio(
@@ -103,6 +103,20 @@ df_usuario = pd.DataFrame(data_usuario)
 #-------------------   Pagina Principal  -----------------------#
 #---------------------------------------------------------------#
 
+st.markdown("""
+    <style>
+    .header-banner {
+        background-image: url("https://raw.githubusercontent.com/Krvelez92/Modelo_Prediccion_Rating/main/doc/imagenes/header.png");
+        background-repeat: repeat-x;
+        background-position: top center;
+        background-size: auto 150px; /* Altura fija para que no sea gigante */
+        height: 150px;
+    }
+    </style>
+
+    <div class="header-banner"></div>
+""", unsafe_allow_html=True)
+
 # Title the app
 st.markdown("""
     <style>
@@ -113,7 +127,7 @@ st.markdown("""
         font-weight: 800;
         text-align: center;
         margin-top: 30px;
-        margin-bottom: 35px;
+        margin-bottom: 20px;
         font-family: 'Poppins', sans-serif;
         color: #ee682e !important; /* Esto fuerza que se aplique el color */
         text-shadow: 3px 3px 6px rgba(0,0,0,0.1);
@@ -225,7 +239,31 @@ if st.session_state.prediccion is not None:
     
     top_5 = top[['Distrito', 'Barrio', 'Rating']].head(5)
 
+    st.markdown("""
+    Ahora que tenemos el top 5 de barrios, si te gustaría mirar locales para tu restaurante te dejo los enlaces listos:
+
+    * [Alquilar Local](https://www.idealista.com/alquiler-locales/madrid-madrid/con-publicado_ultima-semana,restauracion/)
+    * [Comprar Local](https://www.idealista.com/venta-locales/madrid-madrid/con-publicado_ultima-semana,restauracion/)
+    """)
+
     st.dataframe(top_5, hide_index=True)
+
+    kpi_barrios = pd.read_csv('../data/raw/kpi_barrios_madrid.csv')
+    
+    barrio_elegido = random.choice(top_5['Barrio'])
+    
+    kpi_barrios = kpi_barrios[kpi_barrios['barrio']==barrio_elegido]
+
+    kpi_elegido = random.choice(kpi_barrios['indicador_completo'].tolist())
+
+    kpi_barrios = kpi_barrios[kpi_barrios['indicador_completo']==kpi_elegido]
+
+    valor_elegido = float(kpi_barrios['valor_indicador'].values[0])
+
+    valor_formateado = f"{valor_elegido:,.0f}".replace(",", ".")
+
+    st.write(f"Fun fack del barrio {barrio_elegido}: {kpi_elegido} es de {valor_formateado}.")
+
     
 else:
     barrios_mapa = gpd.read_file('../data/raw/Barrios.json')
