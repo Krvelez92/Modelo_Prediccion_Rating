@@ -109,7 +109,7 @@ st.markdown("""
         background-image: url("https://raw.githubusercontent.com/Krvelez92/Modelo_Prediccion_Rating/main/doc/imagenes/header.png");
         background-repeat: repeat-x;
         background-position: top center;
-        background-size: auto 150px; /* Altura fija para que no sea gigante */
+        background-size: auto 150px; 
         height: 150px;
     }
     </style>
@@ -129,7 +129,7 @@ st.markdown("""
         margin-top: 30px;
         margin-bottom: 20px;
         font-family: 'Poppins', sans-serif;
-        color: #ee682e !important; /* Esto fuerza que se aplique el color */
+        color: #ee682e !important; 
         text-shadow: 3px 3px 6px rgba(0,0,0,0.1);
     }
 
