@@ -240,7 +240,7 @@ if st.session_state.prediccion is not None:
     top_5 = top[['Distrito', 'Barrio', 'Rating']].head(5)
 
     st.markdown("""
-    Ahora que tenemos el top 5 de barrios, si te gustaría mirar locales para tu restaurante te dejo los enlaces listos:
+    Ahora que tenemos el top 5 de barrios puedes empezar a buscar el mejor local para tu restaurante:
 
     * [Alquilar Local](https://www.idealista.com/alquiler-locales/madrid-madrid/con-publicado_ultima-semana,restauracion/)
     * [Comprar Local](https://www.idealista.com/venta-locales/madrid-madrid/con-publicado_ultima-semana,restauracion/)
@@ -262,7 +262,7 @@ if st.session_state.prediccion is not None:
 
     valor_formateado = f"{valor_elegido:,.0f}".replace(",", ".")
 
-    st.write(f"Fun fack del barrio {barrio_elegido}: {kpi_elegido} es de {valor_formateado}.")
+    st.write(f"Fun fact del barrio {barrio_elegido}: {kpi_elegido} es de {valor_formateado}.")
 
     
 else:
